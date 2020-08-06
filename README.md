@@ -1,7 +1,7 @@
 # Caddell-2020
 ## Drought shifts sorghum root metabolite and microbiome profiles and enriches the stress response factor pipecolic acid
 
-*Daniel F. Caddell, Katherine Louie, Benjamin Bowen, Julie A. Sievert, Joy Hollingsworth, Jeffery Dahlberg, Trent Northen, Devin Coleman-Derr**
+*Daniel F. Caddell, Katherine Louie, Benjamin Bowen, Julie A. Sievert, Joy Hollingsworth, Jeffery Dahlberg, Elizabeth Purdom, Trent Northen, Devin Coleman-Derr**
 
 Link to BioRxiv preprint:
 
