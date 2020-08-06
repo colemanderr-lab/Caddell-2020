@@ -4,6 +4,7 @@
 *Daniel F. Caddell, Katherine Louie, Benjamin Bowen, Julie A. Sievert, Joy Hollingsworth, Jeffery Dahlberg, Trent Northen, Devin Coleman-Derr**
 
 Link to BioRxiv preprint:
+
 Link to final publication:
 
 Included in this repository are...
@@ -15,4 +16,4 @@ Included in this repository are...
 + pca_tp8_metabolites.csv - a formatted table of metabolite peak heights (TP8) derived from supplemental table 2
 + pca_all_metabolites.csv - a formatted table of metabolite peak heights (TP8 and 24h) derived from supplemental table 2
 
-Raw sequence files have been uploaded to NCBI under BioProject PRJNAxxxxx (https://www.ncbi.nlm.nih.gov/bioproject/PRJNAxxxxx)
+Raw sequence files have been uploaded to NCBI under BioProject PRJNA655744 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA655744)
