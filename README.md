@@ -13,6 +13,7 @@ Included in this repository are...
 + sample-metadata-final_feature.tsv - a table of metadata associated with samples
 + tree.nwk - a newick-format tree file that corresponds to the feature table
 + taxonomy.tsv - a table of taxonomic assignments for each ASV
++ figure4EF_Code.R - The R code used to generate figures 4E and 4F
 + pca_tp8_metabolites.csv - a formatted table of metabolite peak heights (TP8) derived from supplemental table 2
 + pca_all_metabolites.csv - a formatted table of metabolite peak heights (TP8 and 24h) derived from supplemental table 2
 
